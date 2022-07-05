@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>How to send mail using queue in Laravel 9? - ItSolutionStuff.com</title>
+    <title>Merhaba</title>
 </head>
 <body>
    
 <center>
 <h2 style="padding: 23px;background: #b3deb8a1;border-bottom: 6px green solid;">
-    <a href="https://itsolutionstuff.com">Visit Our Website : ItSolutionStuff.com</a>
+    <a href="#">Merhaba</a>
 </h2>
 </center>
   
